@@ -1,0 +1,67 @@
+<mjml>
+    <mj-head>
+        <mj-title> ExtraHop Letter </mj-title>
+        <mj-preview> ExtraHop Letter </mj-preview>
+        <mj-style></mj-style>
+    </mj-head>
+
+    <mj-body width="600px">
+        <mj-section background-color="#151515" padding="0">
+            <mj-column>
+                <mj-image align="left" width="140px" padding-left="45px" padding-top="45px" src="https://assets.extrahop.com/images/logos/extrahop-logo-white.svg" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#151515" padding="0">
+            <mj-column>
+                <mj-text color="#237B79"  text-transform="uppercase" font-weight="regular" align="left" font-family="Lato" line-height="48px" padding-bottom="0" padding-top="30px" padding-left="45px" padding-bottom="0px">
+                    <h1 font-size="48px" >
+                        Cloud Security’s <br> Missing Link
+                    </h1>
+                </mj-text>
+                <mj-text color="#FFFFFF" font-weight="regular" align="left" font-family="Lato" line-height="20px" font-size="16px"  padding-left="45px" padding-top="10px" padding-bottom="0">
+                    <p>Complex configurations don't mix well with rapidly spun-up components, and when your company uses multiple cloud providers to host your critical assets, the odds of a major security event get that much higher.</p>
+                    <p>So, how do you close visibility gaps and integrate conflicting datasets from different providers, and how do you adjust your current incident response strategies to respond to cloud-specific threats?</p>
+                    <p>Read the report from SANS Instructor Dave Shackleford to learn how your peers across tech, finance, cybersecurity, and other industries address the following questions and more:</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section background-color="#151515" padding="45px"  >
+            <mj-column background-color="#237B79" border-right="15px solid #151515" padding-top="0">
+                <mj-text line-height="20px" font-weight="regular" align="left" font-size="14px" color="#FFFFFF" font-family="Lato" height="150px">Article TitlWhat's the most dangerous cloud security vulnerability that you might think
+                    is only hype?
+                </mj-text>
+            </mj-column>
+
+            <mj-column background-color="#EC1931" border-right="15px solid #151515">
+                <mj-text line-height="20px" font-weight="regular" align="left" font-size="14px" color="#FFFFFF" font-family="Lato" height="150px">What are the biggest challenges in adapting IR and forensics analysis to the cloud?
+                </mj-text>
+            </mj-column>
+
+            <mj-column background-color="#237B79" border-right="15px solid #151515" >
+                <mj-text line-height="20px" font-weight="regular" align="left" font-size="14px" color="#FFFFFF" font-family="Lato" height="150px" >What are the most effective security controls for the cloud, and how can you avoid common implementation roadblocks?
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#151515" padding="0">
+            <mj-column>
+                <mj-button font-family="Lato" background-color="#151515" color="white" border="solid 2px #237B79" width="200px" padding-left="15px">
+                    Download Now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#151515" padding="0">
+            <mj-column>
+                <mj-text color="white"  font-weight="light" align="left" line-height="15px" font-family="Lato" font-size="10px"  padding-top="30px" padding-left="45px" padding-bottom="20px">
+                    Offered on behalf ExtraHop Networks <br>
+                    If you'd prefer not to receive future messages, you can unsubscribe here.<br>
+                    424 Washington St, #35091, Brighton, MA 02135.
+
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
